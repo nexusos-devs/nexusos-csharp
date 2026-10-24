@@ -6,9 +6,8 @@ An experimental operating system written in **C#** using the **COSMOS Framework*
 * **Discontinued Development** - The system is not under development anymore, now we focus on NexusOS written from scratch.
 * **Possible Changes** - Features, components and system behavior may change during development.
   
-[![Status](https://img.shields.io/badge/STATUS-UNDER%20CONSTRUCTION-8B5CF6?style=for-the-badge)](https://github.com/ogbebu/NexusOS)
-[![NexusOS](https://img.shields.io/badge/NEXUS%20OS-D946EF?style=for-the-badge)](https://github.com/ogbebu/NexusOS)
-[![Not Finished](https://img.shields.io/badge/NOT%20FINISHED-EAB308?style=for-the-badge)](https://github.com/ogbebu/NexusOS)
+[![Status](https://img.shields.io/badge/STATUS-DISCONTINUED%20[NEW%20VERSION%20IN%20DEVELOPMENT]-8B5CF6?style=for-the-badge)](https://github.com/ogbebu/NexusOS)
+[![C# Nexus](https://img.shields.io/badge/NEXUS%20OS-D946EF?style=for-the-badge)](https://github.com/nexusos-devs/nexusos-csharp)
 
 ## ☀️ Features
 * **🎨 Graphics System** — Custom SVGAII Canvas with support for resolutions up to **1920×1080**, providing the foundation for graphics mode.
